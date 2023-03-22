@@ -1,3 +1,3 @@
 # Bem vindos a esse repositório :smiley:
 
-Esse repositório tem como principal objetivo mostrar a minha evolução no Bootcamp da DIO em parceria como o Ifood, sejam todos bem vindos.
+Esse repositório tem objetivo ser o repositório do desafio de Git/GitHub da DIO.
